@@ -20,8 +20,6 @@ Mais informaçes sobre o jogo pode ser vista [AQUI][coquetel].
 
 - É necessário adicionar o arquivo alphabet pelo botão alphabet search, esse arquivo possui todas as palavras que serão testadas pelo Torto Solver.
 
----
-
 [coquetel]: https://www.coquetel.com.br/jogos/torto
 
 ---
