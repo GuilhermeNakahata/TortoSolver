@@ -12,7 +12,7 @@
 
 <h1 align="center">Torto Solver</h1>
 
-<p align="center"> Esse projeto tem como objetivo solucionar o passatempo "torto", para se chegar a resolução foi utilizado buscas cegas e grafos como sua principal estrutura de dados. Mais informaçes sobre o jogo pode ser vista</p> [AQUI][coquetel]
+<p align="center"> Esse projeto tem como objetivo solucionar o passatempo "torto", para se chegar a resolução foi utilizado buscas cegas e grafos como sua principal estrutura de dados. Mais informaçes sobre o jogo pode ser vista [AQUI][coquetel]</p> 
 
 ---
 
