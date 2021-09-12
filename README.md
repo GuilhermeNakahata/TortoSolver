@@ -12,9 +12,13 @@
 
 <h1 align="center">Torto Solver</h1>
 
-<p align="center"> Esse projeto tem como objetivo solucionar o passatempo "torto", para se chegar a resolução foi utilizado buscas cegas e grafos como sua principal estrutura de dados.</p> 
+<p align="center"> Esse projeto tem como objetivo solucionar o passatempo "torto", para se chegar a resolução foi utilizado buscas cegas, e como sua principal estrutura de dados grafos.</p> 
 
 Mais informaçes sobre o jogo pode ser vista [AQUI][coquetel].
+
+---
+
+- É necessário adicionar o arquivo alphabet pelo botão alphabet search, esse arquivo possui todas as palavras que serão testadas pelo Torto Solver.
 
 ---
 
